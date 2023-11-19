@@ -64,9 +64,36 @@ Clients are registered as observers to receive notifications when there are chan
 ### • Project Outcomes and Challenges Faced:
 
 - The project has resulted in a modular and scalable system with a user-friendly interface.
-- Challenges included coordinating the interactions between different design patterns and ensuring seamless integration.
+- Challenges Faced and Solutions:
+**Integration of Design Patterns:**
+Challenge: Coordinating interactions between multiple design patterns.
+Solution: Regular code reviews ensured seamless pattern integration.
+
+**Flexibility and Extensibility:**
+Challenge: Designing for future changes without major modifications.
+Solution: Effective use of Factory and Decorator patterns for easy system evolution.
+
+**Testing and Quality Assurance:**
+Challenge: Ensuring system reliability under various scenarios.
+Solution: Robust testing strategy, automated testing tools, and regular code reviews.
 
 ### • Future Improvements:
 
 - Enhance the user interface for a more intuitive experience.
 - Integrate additional features such as maintenance scheduling and customer reviews.
+
+## References:
+
+Adapter pattern - Javatpoint. (n.d.). www.javatpoint.com. https://www.javatpoint.com/adapter-pattern#:~:text=An%20Adapter%20Pattern%20says%20that,is%20also%20known%20as%20Wrapper.
+
+Avecoder. (2020, June 29). Что находится между идеей и кодом? Обзор 14 диаграмм UML. Хабр. https://habr.com/ru/articles/508710/
+
+Аве Кодер. (2020, June 1). UML диаграмма классов (UML Class Diagram) [Video]. YouTube. https://www.youtube.com/watch?v=sVVJp5a41o4
+
+Contributors to Wikimedia projects. (2023, August 14). Диаграмма классов. https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2
+
+Framework for UML Diagram: frameworks
+
+Presentations from moodle
+
+Швец, А. (2023, January 1). Адаптер. Refactoring.Guru / Рефакторинг.Гуру. https://refactoring.guru/ru/design-patterns/adapter
