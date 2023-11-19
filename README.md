@@ -31,6 +31,8 @@ The purpose is to develop a well-structured and modular automobile dealership sy
 
 ### • Include explanations of each feature and design pattern. Provide screenshots, if necessary (for example, we used observer to notify users about something).
 
+![UMLDiagram](UMLdiagram.png)
+
 Singleton:
 
 Ensures that there is only one instance of the dealership, preventing multiple instances and ensuring centralized control.
