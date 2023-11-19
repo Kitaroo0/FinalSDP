@@ -31,8 +31,6 @@ The purpose is to develop a well-structured and modular automobile dealership sy
 
 ### • Include explanations of each feature and design pattern. Provide screenshots, if necessary (for example, we used observer to notify users about something).
 
-![UMLDiagram](UMLdiagram.png)
-
 Singleton:
 
 Ensures that there is only one instance of the dealership, preventing multiple instances and ensuring centralized control.
@@ -58,6 +56,8 @@ Observer:
 Clients are registered as observers to receive notifications when there are changes in car prices, keeping them informed.
 
 ### • Include UML diagram to illustrate the structure of the design patterns used in your project.
+
+![UMLDiagram](UMLdiagram.png)
 
 ## Conclusion:
 
