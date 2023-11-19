@@ -32,27 +32,21 @@ The purpose is to develop a well-structured and modular automobile dealership sy
 ### • Explanation of Each Feature and Design Pattern:
 
 Singleton:
-
 Ensures that there is only one instance of the dealership, preventing multiple instances and ensuring centralized control.
 
 Factory:
-
 Facilitates the creation of different car models with a unified interface, promoting easy scalability for future additions.
 
 Decorator:
-
 Enables dynamic customization of cars by allowing the addition of features or options without modifying the existing code.
 
 Adapter:
-
 Adapts various currencies for payment, providing a seamless payment experience for customers using different currencies.
 
 Strategy:
-
 Allows users to choose between different payment strategies, such as credit or cash, providing flexibility for payment processing.
 
 Observer:
-
 Clients are registered as observers to receive notifications when there are changes in car prices, keeping them informed.
 
 ### • UML Diagram:
