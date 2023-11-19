@@ -1,7 +1,10 @@
 # FinalSDP
-Name of your final project:
-Group: SE-221X
-Team members: Name Surname
+Name of your final project: Car Dealership
+
+Group: SE-2213
+
+Team members: Alibi Baigaliyev
+
 Project Overview:
 • Provide some information about your project. 
 • Describe the idea of the project.
