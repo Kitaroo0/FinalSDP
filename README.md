@@ -29,8 +29,7 @@ The purpose is to develop a well-structured and modular automobile dealership sy
   
 ## Main body:
 
-### • Include explanations of each feature and design pattern. Provide screenshots, if 
-necessary (for example, we used observer to notify users about something).
+### • Include explanations of each feature and design pattern. Provide screenshots, if necessary (for example, we used observer to notify users about something).
 
 Singleton:
 
@@ -56,8 +55,7 @@ Observer:
 
 Clients are registered as observers to receive notifications when there are changes in car prices, keeping them informed.
 
-### • Include UML diagram to illustrate the structure of the design patterns used in your 
-project.
+### • Include UML diagram to illustrate the structure of the design patterns used in your project.
 
 ## Conclusion:
 
